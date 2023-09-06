@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Welcome back_icon-input eye-password</name>
+   <tag></tag>
+   <elementGuidId>913c2719-43b3-4fb0-aac4-f37e996f45de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.icon-input.eye-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/div/form/div[2]/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>43acabce-c5f7-4884-8ede-9190e6d88b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-input eye-password</value>
+      <webElementGuid>4af0ba65-0546-4366-b84d-8f3d8bfa886a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/feb_sign_up/eye.svg</value>
+      <webElementGuid>77245b67-1f60-4a96-8b98-d59a38ec9e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Katalon Products</value>
+      <webElementGuid>52d2ef47-ece2-4136-a4f0-acaac7c3e0d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>58049d10-335c-4ca2-b5e7-8101ff3ea8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;SignIn_wrapSignIn__jdoQJ&quot;]/div[@class=&quot;sign_up_section&quot;]/div[@class=&quot;sign_up_form&quot;]/form[@class=&quot;form_sign_up&quot;]/div[@class=&quot;input-div-form password-input&quot;]/img[@class=&quot;icon-input eye-password&quot;]</value>
+      <webElementGuid>328c4bf3-6f9a-4624-8148-109155aa2795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/div/form/div[2]/img[2]</value>
+      <webElementGuid>e1cd3b99-6d8c-4df2-805f-c06d7d7e80ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Katalon Products'])[3]</value>
+      <webElementGuid>ce611d2f-022f-43cc-ac73-e380f15a3d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img[2]</value>
+      <webElementGuid>fbc09b8a-6a36-4d44-bd9b-1be8a5b97d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/feb_sign_up/eye.svg' and @alt = 'Katalon Products']</value>
+      <webElementGuid>97bed3ae-5e00-4dc7-9782-08947f544315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
